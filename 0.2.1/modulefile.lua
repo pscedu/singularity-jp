@@ -3,16 +3,16 @@
 --
 -- "URL: https://www.psc.edu/resources/software"
 -- "Category: Other"
--- "Description: jp is a lightweight and flexible command-line JSON processor."
+-- "Description: The jp command is a command line interface to JMESPath, an expression language for manipulating JSON"
 -- "Keywords: singularity utilities"
 
 whatis("Name: jp")
 whatis("Version: 0.2.1")
 whatis("Category: Other")
-whatis("Description: jp is a lightweight and flexible command-line JSON processor.")
+whatis("Description: The jp command is a command line interface to JMESPath, an expression language for manipulating JSON")
 
 help([[
-jp is a lightweight and flexible command-line JSON processor.
+The jp command is a command line interface to JMESPath, an expression language for manipulating JSON.
 
 To load the module, type
 
